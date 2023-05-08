@@ -1,13 +1,14 @@
-package com.example.heronjjang;
+package com.example.JpaStudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HeronJJangApplication {
+public class mainApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HeronJJangApplication.class, args);
+        SpringApplication.run(mainApplication.class, args);
+
     }
         
 }
